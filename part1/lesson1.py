@@ -11,3 +11,9 @@
 """
 
 print("hello python3!")
+
+for i in range(8):
+    print(i)
+
+
+

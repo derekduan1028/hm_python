@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#coding:utf-8
+# coding:utf-8
 
 """
 
@@ -12,8 +12,12 @@
 
 print("hello python3!")
 
-for i in range(8):
-    print(i)
+
+def get_num(n):
+    for i in range(n):
+        print(i)
+        return i
 
 
-
+a = get_num(8)
+print(a)

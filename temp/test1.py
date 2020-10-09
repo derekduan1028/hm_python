@@ -20,10 +20,22 @@ print(type(a))
 c = a.split("\n")
 print(c, type(c))
 
+gl_list = []
+# print(gl_list.__dir__())
+print(dir(gl_list))
+print(dir(1))
+
+
+def demo():
+    """this is a demo function"""
+    print("hello world!")
+
+
+if __name__ == "__main__":
+    var = demo.__doc__
+    print(var)
 
 # b=[]
 # for i in a:
 #     b.append(i)
 # print(b)
-
-

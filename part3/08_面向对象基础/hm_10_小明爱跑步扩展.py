@@ -1,15 +1,14 @@
 #!/usr/bin/python
-# coding:utf-8
+#coding:utf-8
 
 """
 
 @author:derek
 @contract:derek_duan@sina.com
-@file: hm_09_小明爱跑步.py
-@time: 2020-10-10 11:39
+@file: hm_10_小明爱跑步扩展.py
+@time: 2020-10-12 14:19
 
 """
-
 
 class Person:
     def __init__(self, name, weight):
@@ -34,3 +33,9 @@ xiaoming.run()
 xiaoming.eat()
 print(xiaoming)
 
+# xiaomei
+
+xiaomei = Person("xiaomei", 45.0)
+xiaomei.eat()
+xiaomei.run()
+print(xiaomei)

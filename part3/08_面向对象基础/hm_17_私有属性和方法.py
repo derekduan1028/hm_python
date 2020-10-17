@@ -24,5 +24,7 @@ class Women:
 xiaofang = Women("小芳")
 # 私有属性，在外界不能够被直接访问
 # print(xiaofang.__age)
+print(xiaofang._Women__age)
 # 私有方法，同样不允许在外界被直接访问
 # xiaofang.__secret()
+xiaofang._Women__secret()

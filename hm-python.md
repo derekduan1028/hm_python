@@ -2811,11 +2811,366 @@ Out[4]: dict
 1. 提示用户输入一个 **加减乘除混合运算**
 2. 返回计算结果
 
+```python
+text = input("请输入算式：")
+print(eval(text))
+```
+
 ## Lesson 394 eval不要直接转换input结果
+
+**不要滥用eval**
+
+> ***在开发时千万不要使用`eval`直接转换`input`的结果***
+
+```python
+__import__('os').system('ls')
+```
+
+* 等价代码
+
+```python
+import os
+os.system("终端命令")
+```
+
+* **执行成功，返回0**
+* **执行失败，返回错误信息**
 
 
 
 # **Part4 飞机大战项目**
+
+## lesson 395 明确目标和实战步骤
+
+**项目实战——飞机大战**
+
+**目标**
+
+* 强化 **面向对象** 程序设计
+* 体验使用 `pygame`模块进行 **游戏开发**
+**实战步骤**
+1. `pygame`快速体验
+2. **飞机大战** 实战
+
+**确认模块 —— pygame**
+
+* `pygame`就是一个Python模块，专为电子游戏设计
+* 官方网站 https://www.pygame.org
+  * **提示：** 要学习第三方模块，通常最好的参考资料就在官方网站
+|网站栏目|内容|
+|:----|:----|
+|GettingStarted|在各平台安装模块的说明|
+|Docs|pygame模块所有 **类** 和 **子类** 的参考手册|
+
+
+## lesson 396 pygame模块正确安装
+## lesson 397 游戏快速体验
+## lesson 398 游戏初始化和退出
+## lesson 399 
+## lesson 400
+## lesson 401
+## lesson 402
+## lesson 403
+## lesson 404
+## lesson 405
+## lesson 406
+## lesson 407
+## lesson 408
+## lesson 409
+## lesson 410
+## lesson 411
+## lesson 412
+## lesson 413
+## lesson 414
+## lesson 415
+## lesson 416
+## lesson 417
+## lesson 418
+## lesson 419
+## lesson 420
+## lesson 421
+## lesson 422
+## lesson 423
+## lesson 424
+## lesson 425
+## lesson 426
+## lesson 427
+## lesson 428
+## lesson 429
+## lesson 430
+## lesson 431
+## lesson 432
+## lesson 433
+## lesson 434
+## lesson 435
+## lesson 436
+## lesson 437
+## lesson 438
+## lesson 439
+## lesson 440
+## lesson 441
+## lesson 442
+
+# **Part5 Python高级**
+## lesson 443 网络通信概述
+## lesson 444 IP地址
+## lesson 445 Linux、windows查看网卡
+## lesson 446 ipv4和ipv6介绍
+## lesson 447 端口（重点）
+## lesson 448 端口分类
+## lesson 449 socket介绍
+## lesson 450 udp1
+## lesson 451 udp2
+## lesson 452 udp3
+## lesson 453 udp4
+## lesson 454 udp5
+## lesson 455 udp6
+## lesson 456 udp7
+## lesson 457 udp8
+## lesson 458 udp9
+## lesson 459 udp10
+## lesson 460 tcp介绍
+## lesson 461 tcp客户端
+## lesson 462 tcp服务器1
+## lesson 463
+## lesson 464
+## lesson 465
+## lesson 466
+## lesson 467
+## lesson 468
+## lesson 469
+## lesson 470
+## lesson 471
+## lesson 472
+## lesson 473
+## lesson 474
+## lesson 475
+## lesson 476
+## lesson 477
+## lesson 478
+## lesson 479
+## lesson 480
+## lesson 481
+## lesson 482
+## lesson 483
+## lesson 484
+## lesson 485
+## lesson 486
+## lesson 487
+## lesson 488
+## lesson 489
+## lesson 490
+## lesson 491
+## lesson 492
+## lesson 493
+## lesson 494
+## lesson 495
+## lesson 496
+## lesson 497
+## lesson 498
+## lesson 499
+## lesson 500
+## lesson 501
+## lesson 502
+## lesson 503
+## lesson 504
+## lesson 505
+## lesson 506
+## lesson 507
+## lesson 508
+## lesson 509
+## lesson 510
+## lesson 511
+## lesson 512
+## lesson 513
+## lesson 514
+## lesson 515
+## lesson 516
+## lesson 517
+## lesson 518
+## lesson 519
+## lesson 520
+## lesson 521
+## lesson 522
+## lesson 523
+## lesson 524
+## lesson 525
+## lesson 526
+## lesson 527
+## lesson 528
+## lesson 529
+## lesson 530
+## lesson 531
+## lesson 532
+## lesson 533
+## lesson 534
+## lesson 535
+## lesson 536
+## lesson 537
+## lesson 538
+## lesson 539
+## lesson 540
+## lesson 541
+## lesson 542
+## lesson 543
+## lesson 544
+## lesson 545
+## lesson 546
+## lesson 547
+## lesson 548
+## lesson 549
+## lesson 550
+## lesson 551
+## lesson 552
+## lesson 553
+## lesson 554
+## lesson 555
+## lesson 556
+## lesson 557
+## lesson 558
+## lesson 559
+## lesson 560
+## lesson 561
+## lesson 562
+## lesson 563
+## lesson 564
+## lesson 565
+## lesson 566
+## lesson 567
+## lesson 568
+## lesson 569
+## lesson 570
+## lesson 571
+## lesson 572
+## lesson 573
+## lesson 574
+## lesson 575
+## lesson 576
+## lesson 577
+## lesson 578
+## lesson 579
+## lesson 580
+## lesson 581
+## lesson 582
+## lesson 583
+## lesson 584
+## lesson 585
+## lesson 586
+## lesson 587
+## lesson 588
+## lesson 589
+## lesson 590
+## lesson 591
+## lesson 592
+## lesson 593
+## lesson 594
+## lesson 595
+## lesson 596
+## lesson 597
+## lesson 598
+## lesson 599
+## lesson 600
+## lesson 601
+## lesson 602
+## lesson 603
+## lesson 604
+## lesson 605
+## lesson 606
+## lesson 607
+## lesson 608
+## lesson 609
+## lesson 610
+## lesson 611
+## lesson 612
+## lesson 613
+## lesson 614
+## lesson 615
+## lesson 616
+## lesson 617
+## lesson 618
+## lesson 619
+## lesson 620
+## lesson 621
+## lesson 622
+## lesson 623
+## lesson 624
+## lesson 625
+## lesson 626
+## lesson 627
+## lesson 628
+## lesson 629
+## lesson 630
+## lesson 631
+## lesson 632
+## lesson 633
+## lesson 634
+## lesson 635
+## lesson 636
+## lesson 637
+## lesson 638
+## lesson 639
+## lesson 640
+## lesson 641
+## lesson 642
+## lesson 643
+## lesson 644
+## lesson 645
+## lesson 646
+## lesson 647
+## lesson 648
+## lesson 649
+## lesson 650
+## lesson 651
+## lesson 652
+## lesson 653
+## lesson 654
+## lesson 655
+## lesson 656
+## lesson 657
+## lesson 658
+## lesson 659
+## lesson 660
+## lesson 661
+## lesson 662
+## lesson 663
+## lesson 664
+## lesson 665
+## lesson 666
+## lesson 667
+## lesson 668
+## lesson 669
+## lesson 670
+## lesson 671
+## lesson 672
+## lesson 673
+## lesson 674
+## lesson 675
+## lesson 676
+## lesson 677
+## lesson 678
+## lesson 679
+## lesson 680
+## lesson 681
+## lesson 682
+## lesson 683
+## lesson 684
+## lesson 685
+## lesson 686
+## lesson 687
+## lesson 688
+## lesson 689
+## lesson 690
+## lesson 691
+## lesson 692
+## lesson 693
+## lesson 694
+## lesson 695
+## lesson 696
+## lesson 697
+## lesson 698
+
+
+
 
 
 

@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9003d8da-079f-439c-8e6c-a5ba92c014d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cp_md_to_git.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_12_类属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_13_属性获取机制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_14_使用对象名访问类属性的问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_15_类方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_16_静态方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_17_方法综合案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_18__new__方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_19_单例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/09_面向对象特性/hm_20_单例初始化一次.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/10_异常/hm_01_简单的异常捕获.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/10_异常/hm_02_捕获错误类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/10_异常/hm_03_捕获未知错误.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/10_异常/hm_04_完整的异常语法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/10_异常/hm_05_异常的传递.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/10_异常/hm_06_抛出异常.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_01_测试模块1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_02_测试模块2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_03_import导入模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_05_from_import导入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_06_from_import_注意事项.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_07_from_import导入全部.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_08_模块的搜索顺序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_09___name__模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_09___name__测试导入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/11_模块/hm_10_导入包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/13_文件/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/13_文件/hm_01_读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/13_文件/hm_02_读取文件后文件指针改变.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/13_文件/hm_03_写入文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/13_文件/hm_04_分行读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/13_文件/hm_05_复制文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/13_文件/hm_06_复制大文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/13_文件/hm_07_python字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/readline_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part3/13_文件/hm_08_计算器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cp_md_to_git.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="29">
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/part3/13_文件/hm_08_计算器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -101,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/part3/09_面向对象特性/hm_07_父类的私有属性和私有方法.py" />
         <option value="$PROJECT_DIR$/part3/09_面向对象特性/hm_08_父类的公有方法.py" />
         <option value="$PROJECT_DIR$/part3/09_面向对象特性/hm_09_多继承.py" />
         <option value="$PROJECT_DIR$/part3/09_面向对象特性/hm_10_多继承的使用注意事项.py" />
@@ -152,12 +123,13 @@
         <option value="$PROJECT_DIR$/part3/13_文件/hm_06_复制大文件.py" />
         <option value="$PROJECT_DIR$/part3/13_文件/hm_07_python字符串.py" />
         <option value="$PROJECT_DIR$/temp/cp_md_to_git.py" />
+        <option value="$PROJECT_DIR$/part3/13_文件/hm_08_计算器.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1619" />
-    <option name="y" value="174" />
+    <option name="x" value="-1326" />
+    <option name="y" value="330" />
     <option name="width" value="1280" />
     <option name="height" value="735" />
   </component>
@@ -175,6 +147,17 @@
             <path>
               <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="hm_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python" type="462c0819:PsiDirectoryNode" />
+              <item name="part3" type="462c0819:PsiDirectoryNode" />
+              <item name="13_文件" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
@@ -211,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cp_md_to_git">
+  <component name="RunManager" selected="Python.hm_08_计算器">
     <configuration name="cp_md_to_git" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="readline_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_08_计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part3/13_文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp/readline_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part3/13_文件/hm_08_计算器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hm_08_计算器" />
         <item itemvalue="Python.cp_md_to_git" />
         <item itemvalue="Python.hm_07_python字符串" />
         <item itemvalue="Python.hm_06_复制大文件" />
         <item itemvalue="Python.hm_05_复制文件" />
-        <item itemvalue="Python.readline_for" />
       </list>
     </recent_temporary>
   </component>
@@ -386,10 +369,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1619" y="174" width="1280" height="735" extended-state="0" />
+    <frame x="-1326" y="330" width="1280" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495702" visible="true" weight="0.35993487" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495702" visible="true" weight="0.35993487" />
       <window_info id="Structure" order="1" sideWeight="0.504298" side_tool="true" weight="0.30781758" />
       <window_info id="Favorites" order="2" sideWeight="0.504298" side_tool="true" weight="0.30781758" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32852563" />
@@ -402,7 +385,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49918568" weight="0.32852563" />
-      <window_info anchor="bottom" x="198" y="165" width="1280" height="703" id="Run" order="10" sideWeight="0.49674267" visible="true" weight="0.3621795" />
+      <window_info active="true" anchor="bottom" x="198" y="165" width="1280" height="703" id="Run" order="10" sideWeight="0.49674267" visible="true" weight="0.3621795" />
       <window_info anchor="right" id="R Packages" order="0" />
       <window_info anchor="right" id="R Graphics" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -437,16 +420,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="for commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/part3/09_面向对象特性/hm_06_扩展父类方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-          <folding>
-            <element signature="e#156#322#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/part3/09_面向对象特性/hm_07_父类的私有属性和私有方法.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -803,8 +776,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cp_md_to_git.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="29">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part3/13_文件/hm_08_计算器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -121,13 +121,36 @@ https://www.cnblogs.com/ysuwangqiang/p/11364173.html
 
 ![image-20201019104755800](/Users/derek/Library/Application Support/typora-user-images/image-20201019104755800.png)
 
-
 #### 1.2 Python的设计目标
+
+1999年，吉多.范罗苏姆向DARPA 提交了一条名为"Computer Programming for Everybody"的资金申请，并在后来说明了他对Python的目标：
 
 * 一门**简单直观的语言**并与主要竞争者一样强大
 * **开源**，以使任何人都可以为它做贡献
 * 代码**像纯英语那样容易理解**
 * 适用于**短期**开发的日常任务
+
+这些想法中的基本都已经成为现实，Python已经横位一门流行的编程语言
+
+#### 1.3 Python 的设计哲学
+
+1. 优雅
+2. 明确
+3. 简单
+
+* Python 开发者的哲学：**用一种方法，最好是只有一种方法来做一件事**
+* 如果面临多种选择，Python开发者一般会拒绝花俏的语法，而选择 **明确没有或者很少有歧义的语法**
+
+> ***在python社区，吉多被称为“仁慈的独裁者”***
+
+#### 02. 为什么选择 Python
+
+* 代码量少
+* ........
+
+> ***同一个问题，用不同的语言解决，代码量差距还是很多的，一般情况下，`Python`是`Java`的1/5，所以说 人生苦短，我用Python***
+
+#### 03. Python 特点
 
 
 
@@ -183,7 +206,7 @@ https://www.cnblogs.com/ysuwangqiang/p/11364173.html
 
 
 
-## lesson 143
+## lesson 143 石头剪刀布
 
 
 
@@ -191,19 +214,43 @@ https://www.cnblogs.com/ysuwangqiang/p/11364173.html
 
 
 
-## lesson 145 石头剪刀布
+## lesson 145 循环三大流程介绍
 
 
 
-## lesson 146
-## lesson 147
-## lesson 148
-## lesson 149
-## lesson 150
-## lesson 151
-## lesson 152
-## lesson 153
-## lesson 154
+## lesson 146 循环语法介绍和应用场景
+
+
+
+## lesson 147 第一个while循环
+
+
+
+## lesson 148 单步调试while循环
+
+
+
+## lesson 149 死循环的概念和解决方法
+
+
+
+## lesson 150 赋值运算符
+
+
+
+## lesson 151 程序计数从0开始
+
+
+
+## lesson 152 循环计算思路分析
+
+
+
+## lesson 153 偶数求和—准备偶数
+
+
+
+## lesson 154 偶数求和—计算结果
 ## lesson 155
 ## lesson 156
 ## lesson 157

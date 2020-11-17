@@ -39,3 +39,9 @@ if __name__ == "__main__":
 # for i in a:
 #     b.append(i)
 # print(b)
+
+
+<img src="Users/derek/Library/Application Support/typora-user-images/image-20201105092742335.png" \
+    alt="image-20201105092742335.png" style="zoom:80%;" />
+
+<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201019103902279.png" align="left" alt="image-20201019103902279" style="zoom:80%;" />

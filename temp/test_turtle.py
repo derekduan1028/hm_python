@@ -27,11 +27,13 @@ def square(t, vlen, n):
 
 
 def circle(t, r):
-    # square(t, 10, 36)
+    square(t, 10, 36)
     circumference = 2 * math.pi * r
     print(circumference)
 
 
-circle(bob, 3)
+circle(bob, 4)
+turtle.done()
+
 
 

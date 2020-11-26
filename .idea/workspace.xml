@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/cp_md_to_git.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -105,8 +105,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="116" />
     <option name="y" value="49" />
     <option name="width" value="1280" />
     <option name="height" value="727" />
@@ -337,7 +337,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="49" width="1280" height="727" extended-state="0" />
+    <frame x="116" y="49" width="1280" height="727" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.25325733" />
       <window_info id="Structure" order="1" sideWeight="0.50611246" side_tool="true" weight="0.3916938" />
@@ -768,7 +768,7 @@
     <entry file="file://$PROJECT_DIR$/cp_md_to_git.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
         </state>
       </provider>
     </entry>

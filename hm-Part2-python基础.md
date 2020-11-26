@@ -10,7 +10,7 @@
 
 >*人生苦短，我用Python ---- Life is short , you need Python*
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201019103902279.png" align="left" alt="image-20201019103902279" style="zoom:80%;" />
+<img src="./images/image-20201019103902279.png" align="left" alt="image-20201019103902279" style="zoom:80%;" />
 
 
 
@@ -25,7 +25,7 @@
 
 > *Python 的创始人为吉多•范罗苏姆（Guido van Rossum）*
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201019104445396.png" align="left" alt="image-20201019104445396" style="zoom:100%;" />
+<img src="./images/image-20201019104445396.png" align="left" alt="image-20201019104445396" style="zoom:100%;" />
 
 （略）
 
@@ -35,7 +35,10 @@
 
 编译器翻译的方式有两种：一个是**编译**，另外一个是**解释**。两种方式之间的区别在于**翻译时间点的不同。当编译器以解释方式运行的时候，** 也称为**解释器**
 
-![image-20201019104755800](/Users/derek/Library/Application Support/typora-user-images/image-20201019104755800.png)
+<img src="./images/image-20201019104755800.png" align="left" alt="image-20201019104445396" style="zoom:90%;" />
+
+
+
 
 #### 1.2 Python的设计目标
 

@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9003d8da-079f-439c-8e6c-a5ba92c014d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/derek.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理系统/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理系统/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理系统/cards_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_名片管理系统/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_02_局部变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_03_全局变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_04_函数不能直接修改全局变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_05_修改全局变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_06_全局变量的位置.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_07_全局变量的命名.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_08_多个返回值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_10_不可变和可变参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_11_函数内部通过方法修改可变参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_12_面试题加等于.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_13_函数的缺省参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_14_函数的缺省参数定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_15_缺省参数注意点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_16_多值参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_17_多值参数求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_18_元组和字典的拆包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_19_递归函数的特点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/test_for循环与列表推导对比.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/test_打印正方形.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/test_比较大小.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/07_语法进阶/hm_01_引用.py" beforeDir="false" afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_01_引用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/test_turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp/test_turtle.py" afterDir="false" />
-    </list>
+    <list default="true" id="9003d8da-079f-439c-8e6c-a5ba92c014d7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="928">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/part2/01_Python基础/hm_03_注释.py">
+        <entry file="file://$PROJECT_DIR$/cp_md_to_git.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="308">
+              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -90,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/part2/04_函数/hm_06_函数的返回值.py" />
         <option value="$PROJECT_DIR$/part2/04_函数/hm_07_函数的嵌套调用.py" />
         <option value="$PROJECT_DIR$/part2/04_函数/hm_08_打印分隔线.py" />
         <option value="$PROJECT_DIR$/part2/04_函数/hm_09_打印多行分隔线.py" />
@@ -141,11 +101,13 @@
         <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_18_元组和字典的拆包.py" />
         <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_19_递归函数的特点.py" />
         <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py" />
+        <option value="$PROJECT_DIR$/cp_md_to_git.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="56" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="49" />
     <option name="width" value="1280" />
     <option name="height" value="727" />
   </component>
@@ -164,22 +126,6 @@
             <path>
               <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="hm_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hm_python" type="462c0819:PsiDirectoryNode" />
-              <item name="part2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hm_python" type="462c0819:PsiDirectoryNode" />
-              <item name="part2" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Python基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hm_python" type="462c0819:PsiDirectoryNode" />
-              <item name="temp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
@@ -391,9 +337,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="56" width="1280" height="727" extended-state="0" />
+    <frame x="22" y="49" width="1280" height="727" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.39983714" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.25325733" />
       <window_info id="Structure" order="1" sideWeight="0.50611246" side_tool="true" weight="0.3916938" />
       <window_info id="Favorites" order="2" sideWeight="0.50611246" side_tool="true" weight="0.3916938" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32852563" />
@@ -406,7 +352,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49918568" weight="0.32786885" />
-      <window_info anchor="bottom" x="198" y="165" width="1280" height="703" id="Run" order="10" sideWeight="0.49674267" weight="0.3295082" />
+      <window_info anchor="bottom" x="198" y="165" width="1280" height="703" id="Run" order="10" sideWeight="0.49674267" visible="true" weight="0.38360655" />
       <window_info anchor="right" id="R Packages" order="0" weight="0.32952547" />
       <window_info anchor="right" id="R Graphics" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -436,13 +382,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_07_函数的嵌套调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_08_打印分隔线.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
@@ -822,7 +761,14 @@
     <entry file="file://$PROJECT_DIR$/part2/01_Python基础/hm_03_注释.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cp_md_to_git.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
         </state>
       </provider>
     </entry>

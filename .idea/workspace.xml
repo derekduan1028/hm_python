@@ -2,62 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9003d8da-079f-439c-8e6c-a5ba92c014d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/part2/01_Python基础/hm_03_注释.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/01_Python基础/hm_05_买苹果.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/01_Python基础/hm_09_格式化输出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/02_分支/hm_01_判断年龄.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/02_分支/hm_02_判断年龄改进版.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/02_分支/hm_03_逻辑运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/02_分支/hm_06_女友的节日.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/02_分支/hm_07_火车站安检.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/02_分支/hm_08_石头剪刀布.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_01_重复执行.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_02_第一个while循环.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_03_程序计数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_04_累加求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_05_偶数求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_06_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_07_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_08_打印星号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_09_print函数的结尾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_10_嵌套打印星号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_11_九九乘法表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/03_循环/hm_12_转义字符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_02_快速体验.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_03_第一个函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_04_第一个函数改造.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_05_函数的参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_06_函数的返回值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_07_函数的嵌套调用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_08_打印分隔线.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_09_打印多行分隔线.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_10_体验模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/04_函数/hm_10_分隔线模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_01_列表基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_02_del关键字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_03_列表的数据统计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_04_列表排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_05_列表遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_06_元组基本操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_07_元组遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_08_字典的定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_09_字典的基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_10_字典的其他操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_12_字典的遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_13_字典的应用场景.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_14_字符串定义和遍历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_15_字符串统计操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_16_字符串判断方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_17_字符串的查找和替换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_18_字符串文本对齐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_19_字符串拆分和拼接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_20_for语法演练.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/05_高级数据类型/hm_21_遍历字典的列表变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/calc_123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/test_列表推导.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/九九乘法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/derek.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_名片管理系统/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_名片管理系统/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_名片管理系统/cards_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_名片管理系统/cards_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_02_局部变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_03_全局变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_04_函数不能直接修改全局变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_05_修改全局变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_06_全局变量的位置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_07_全局变量的命名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_08_多个返回值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_10_不可变和可变参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_11_函数内部通过方法修改可变参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_12_面试题加等于.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_13_函数的缺省参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_14_函数的缺省参数定义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_15_缺省参数注意点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_16_多值参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_17_多值参数求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_18_元组和字典的拆包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_19_递归函数的特点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_for循环与列表推导对比.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_打印正方形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_比较大小.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/07_语法进阶/hm_01_引用.py" beforeDir="false" afterPath="$PROJECT_DIR$/part2/07_语法进阶/hm_01_引用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/test_turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp/test_turtle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,92 +44,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_14_字符串定义和遍历.py">
+        <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_15_字符串统计操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_16_字符串判断方法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="17" selection-start-line="17" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_17_字符串的查找和替换.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" selection-start-line="13" selection-end-line="31" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_18_字符串文本对齐.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_19_字符串拆分和拼接.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_20_for语法演练.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_21_遍历字典的列表变量.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp/test_列表推导.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-              <folding>
-                <element signature="e#132#145#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="928">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/part2/07_语法进阶.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/part2/01_Python基础/hm_03_注释.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -167,6 +69,14 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/part2/07_语法进阶</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -180,29 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/part1/02_分支/hm_02_判断年龄改进版.py" />
-        <option value="$PROJECT_DIR$/part1/02_分支/hm_03_逻辑运算符.py" />
-        <option value="$PROJECT_DIR$/part1/02_分支/hm_06_女友的节日.py" />
-        <option value="$PROJECT_DIR$/part1/02_分支/hm_07_火车站安检.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_01_重复执行.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_02_第一个while循环.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_03_程序计数.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_04_累加求和.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_05_偶数求和.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_06_break.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_07_continue.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_08_打印星号.py" />
-        <option value="$PROJECT_DIR$/temp/九九乘法.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_09_print函数的结尾.py" />
-        <option value="$PROJECT_DIR$/part1/02_分支/hm_08_石头剪刀布.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_10_嵌套打印星号.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_11_九九乘法表.py" />
-        <option value="$PROJECT_DIR$/part1/03_循环/hm_12_转义字符.py" />
-        <option value="$PROJECT_DIR$/part2/04_函数/hm_01_九九乘法表.py" />
-        <option value="$PROJECT_DIR$/part2/04_函数/hm_02_快速体验.py" />
-        <option value="$PROJECT_DIR$/part2/04_函数/hm_03_第一个函数.py" />
-        <option value="$PROJECT_DIR$/part2/04_函数/hm_04_第一个函数改造.py" />
-        <option value="$PROJECT_DIR$/part2/04_函数/hm_05_函数的参数.py" />
         <option value="$PROJECT_DIR$/part2/04_函数/hm_06_函数的返回值.py" />
         <option value="$PROJECT_DIR$/part2/04_函数/hm_07_函数的嵌套调用.py" />
         <option value="$PROJECT_DIR$/part2/04_函数/hm_08_打印分隔线.py" />
@@ -231,14 +118,37 @@
         <option value="$PROJECT_DIR$/part2/05_高级数据类型/hm_21_遍历字典的列表变量.py" />
         <option value="$PROJECT_DIR$/temp/test_列表推导.py" />
         <option value="$PROJECT_DIR$/part2/07_语法进阶.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_01_引用.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_02_局部变量.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_03_全局变量.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_04_函数不能直接修改全局变量.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_05_修改全局变量.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_06_全局变量的位置.py" />
+        <option value="$PROJECT_DIR$/temp/test_比较大小.py" />
+        <option value="$PROJECT_DIR$/temp/test_打印正方形.py" />
+        <option value="$PROJECT_DIR$/temp/test_turtle.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_07_全局变量的命名.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_08_多个返回值.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_10_不可变和可变参数.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_11_函数内部通过方法修改可变参数.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_12_面试题加等于.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_13_函数的缺省参数.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_14_函数的缺省参数定义.py" />
+        <option value="$PROJECT_DIR$/temp/test_for循环与列表推导对比.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_15_缺省参数注意点.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_16_多值参数.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_17_多值参数求和.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_18_元组和字典的拆包.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_19_递归函数的特点.py" />
+        <option value="$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1675" />
-    <option name="y" value="219" />
-    <option name="width" value="1190" />
-    <option name="height" value="726" />
+    <option name="x" value="44" />
+    <option name="y" value="56" />
+    <option name="width" value="1280" />
+    <option name="height" value="727" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -248,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,7 +174,13 @@
             <path>
               <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="hm_python" type="462c0819:PsiDirectoryNode" />
-              <item name="part3" type="462c0819:PsiDirectoryNode" />
+              <item name="part2" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Python基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hm_python" type="b2602c69:ProjectViewProjectNode" />
@@ -273,12 +190,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -301,7 +217,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_列表推导">
+  <component name="RunManager" selected="Python.hm_03_注释">
+    <configuration name="hm_03_注释" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hm_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/01_Python基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/01_Python基础/hm_03_注释.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hm_05_from_import导入" type="PythonConfigurationType" factoryName="Python">
       <module name="hm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_18_字符串文本对齐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_17_多值参数求和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,11 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/07_语法进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/05_高级数据类型/hm_18_字符串文本对齐.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/07_语法进阶/hm_17_多值参数求和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_19_字符串拆分和拼接" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_18_元组和字典的拆包" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,11 +289,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/07_语法进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/05_高级数据类型/hm_19_字符串拆分和拼接.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/07_语法进阶/hm_18_元组和字典的拆包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_20_for语法演练" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_19_递归函数的特点" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,11 +310,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/07_语法进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/05_高级数据类型/hm_20_for语法演练.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/07_语法进阶/hm_19_递归函数的特点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_21_遍历字典的列表变量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hm_20_递归求和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -394,32 +331,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/05_高级数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/07_语法进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/05_高级数据类型/hm_21_遍历字典的列表变量.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_列表推导" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="hm_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp/test_列表推导.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -430,16 +346,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_列表推导" />
-        <item itemvalue="Python.hm_21_遍历字典的列表变量" />
-        <item itemvalue="Python.hm_20_for语法演练" />
-        <item itemvalue="Python.hm_19_字符串拆分和拼接" />
-        <item itemvalue="Python.hm_18_字符串文本对齐" />
+        <item itemvalue="Python.hm_03_注释" />
+        <item itemvalue="Python.hm_20_递归求和" />
+        <item itemvalue="Python.hm_19_递归函数的特点" />
+        <item itemvalue="Python.hm_18_元组和字典的拆包" />
+        <item itemvalue="Python.hm_17_多值参数求和" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -466,7 +382,7 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -476,49 +392,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1675" y="219" width="1190" height="726" extended-state="0" />
+    <frame x="44" y="56" width="1280" height="727" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495702" visible="true" weight="0.41476274" />
-      <window_info id="Structure" order="1" sideWeight="0.504298" side_tool="true" weight="0.30781758" />
-      <window_info id="Favorites" order="2" sideWeight="0.504298" side_tool="true" weight="0.30781758" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49388754" visible="true" weight="0.39983714" />
+      <window_info id="Structure" order="1" sideWeight="0.50611246" side_tool="true" weight="0.3916938" />
+      <window_info id="Favorites" order="2" sideWeight="0.50611246" side_tool="true" weight="0.3916938" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32852563" />
       <window_info anchor="bottom" id="Python Console" order="1" weight="0.32852563" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.50325733" side_tool="true" weight="0.5576923" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32852563" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3290938" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.37820512" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.53770494" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49918568" weight="0.32852563" />
-      <window_info anchor="bottom" x="198" y="165" width="1280" height="703" id="Run" order="10" sideWeight="0.49674267" visible="true" weight="0.43021345" />
+      <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49918568" weight="0.32786885" />
+      <window_info anchor="bottom" x="198" y="165" width="1280" height="703" id="Run" order="10" sideWeight="0.49674267" weight="0.3295082" />
       <window_info anchor="right" id="R Packages" order="0" weight="0.32952547" />
       <window_info anchor="right" id="R Graphics" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495702" visible="true" weight="0.3884007" />
-      <window_info id="Structure" order="1" sideWeight="0.504298" side_tool="true" weight="0.30781758" />
-      <window_info id="Favorites" order="2" sideWeight="0.504298" side_tool="true" weight="0.30781758" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32852563" />
-      <window_info anchor="bottom" id="Python Console" order="1" weight="0.32852563" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.50325733" side_tool="true" weight="0.5576923" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32852563" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3290938" />
-      <window_info anchor="bottom" id="Debug" order="6" visible="true" weight="0.37820512" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49918568" weight="0.32852563" />
-      <window_info anchor="bottom" x="198" y="165" width="1280" height="703" id="Run" order="10" sideWeight="0.49674267" weight="0.43108973" />
-      <window_info anchor="right" id="R Packages" order="0" />
-      <window_info anchor="right" id="R Graphics" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -533,187 +428,15 @@
           <line>13</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/part2/02_分支/hm_03_逻辑运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/02_分支/hm_06_女友的节日.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/02_分支/hm_07_火车站安检.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="12" selection-start-line="12" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_04_累加求和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="13" selection-start-line="13" selection-end-line="30" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_05_偶数求和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="12" selection-start-line="12" selection-end-line="33" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_01_重复执行.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_02_第一个while循环.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_03_程序计数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_06_break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="12" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_07_continue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_08_打印星号.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_09_print函数的结尾.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/02_分支/hm_08_石头剪刀布.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_10_嵌套打印星号.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="24" selection-start-line="24" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="e#488#511#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/九九乘法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_12_转义字符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/03_循环/hm_11_九九乘法表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hm_message/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#131#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_02_快速体验.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_01_九九乘法表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#165#376#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_03_第一个函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_04_第一个函数改造.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_05_函数的参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_06_函数的返回值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_07_函数的嵌套调用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -750,13 +473,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_10_体验模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/04_函数/hm_10_体验模块.py" />
     <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_02_del关键字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
@@ -883,23 +600,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶.py" />
+    <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_21_遍历字典的列表变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_20_for语法演练.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="293">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part2/05_高级数据类型/hm_21_遍历字典的列表变量.py">
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_01_引用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="145">
+          <caret line="36" selection-start-line="36" selection-end-line="57" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_02_局部变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="13" selection-start-line="13" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="e#151#186#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_03_全局变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="13" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_04_函数不能直接修改全局变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" selection-start-line="12" selection-end-line="29" selection-end-column="7" />
+          <folding>
+            <element signature="e#191#284#0" />
+            <element signature="e#218#245#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_05_修改全局变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="13" selection-start-line="13" selection-end-line="33" selection-end-column="7" />
+          <folding>
+            <element signature="e#324#351#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_06_全局变量的位置.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/test_比较大小.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/test_打印正方形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/test_turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#135#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_07_全局变量的命名.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_08_多个返回值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="24" selection-start-line="24" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="e#155#269#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_10_不可变和可变参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="13" selection-start-line="13" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="e#159#256#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_11_函数内部通过方法修改可变参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="e#170#264#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_12_面试题加等于.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#153#185#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_13_函数的缺省参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/test_for循环与列表推导对比.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/temp/test_列表推导.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
+        <state relative-caret-position="772">
           <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
           <folding>
             <element signature="e#132#145#0" expanded="true" />
@@ -907,8 +762,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_14_函数的缺省参数定义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="13" selection-start-line="13" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="e#178#360#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_15_缺省参数注意点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_16_多值参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_17_多值参数求和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="13" selection-start-line="13" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#165#223#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_18_元组和字典的拆包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#171#194#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_19_递归函数的特点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/07_语法进阶/hm_20_递归求和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2/01_Python基础/hm_03_注释.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

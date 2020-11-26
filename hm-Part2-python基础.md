@@ -335,7 +335,7 @@ Python 的解释器 如今有多个语言的实现、包括：
 
 **3) PyCharm 快速体验**
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201120142302329.png" alt="image-20201120142302329" style="zoom:80%;" />
+<img src="./images/image-20201120142302329.png" alt="image-20201120142302329" style="zoom:80%;" />
 
 * **文件导航区域** 能够 浏览、定位、打开 项目文件
 * **文件编辑区域** 能够 **编辑** 当前打开的文件
@@ -400,7 +400,7 @@ $ rm -r ~/.PyCharm2016.3
 
 #### 2.3 PyCharm的配置初始界面
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201123100430178.png" alt="image-20201123100430178" style="zoom:80%;" />
+<img src="./images/image-20201123100430178.png" alt="image-20201123100430178" style="zoom:80%;" />
 
 ### 03. 新建/打开一个Python项目
 
@@ -416,14 +416,14 @@ $ rm -r ~/.PyCharm2016.3
 * 打开之后，会在目录下新建一个 `.idea`的目录，用于保存 **项目相关的信息**，例如：**解释器版本、项目包含的文件**等等
 * 第一次打开项目，需要耐心等待 PyCharm对项目 **进行初始化设置**
 
-![image-20201123101632820](/Users/derek/Library/Application Support/typora-user-images/image-20201123101632820.png)
+![image-20201123101632820](./images/image-20201123101632820.png)
 
 **设置项目使用的解释器版本**
 
 * 打开的目录如果不是由 PyCharm 简历的项目目录，**有的时候** 使用的解释器版本是 `Python 2.x`的，**需要单独设置解释器的版本**
 * 通过File / Setting... 可以打开设置窗口，如下图所示
 
-![image-20201123101854577](/Users/derek/Library/Application Support/typora-user-images/image-20201123101854577.png)
+![image-20201123101854577](./images/image-20201123101854577.png)
 
 
 
@@ -451,11 +451,11 @@ $ rm -r ~/.PyCharm2016.3
 
 
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201123105814947.png" alt="image-20201123105814947" style="zoom:60%;" />
+<img src="./images/image-20201123105814947.png" alt="image-20201123105814947" style="zoom:60%;" />
 
 
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201123105909298.png" alt="image-20201123105909298" style="zoom:60%;" />
+<img src="./images/image-20201123105909298.png" alt="image-20201123105909298" style="zoom:60%;" />
 
 
 
@@ -499,7 +499,7 @@ $ ./pycharm.sh
 * 在**专业版** 中，选择菜单 Tools/ Create Desktop Entry... 可以设置任务栏启动图标
   * 注意：设置图标时， 需要勾选 `Create the entry for all users`
 
-![image-20201123142105676](/Users/derek/Library/Application Support/typora-user-images/image-20201123142105676.png)
+![image-20201123142105676](./images/image-20201123142105676.png)
 
 #### 5.3 卸载之前版本的PyCharm
 
@@ -593,7 +593,7 @@ StartupWMClass=jetbrains-pycharm
 2. 在 `hm_02_第二个python程序.py` 文件中添加一句 `print("hello ")`
 3. **点击右键执行** `hm_02_第二个python程序.py`
 
-![image-20201123145402539](/Users/derek/Library/Application Support/typora-user-images/image-20201123145402539.png)
+![image-20201123145402539](./images/image-20201123145402539.png)
 
 **提示**
 
@@ -748,7 +748,7 @@ Out[1]: '--------------------------------------------------'
 
 |                             CPU                              |                             内存                             |                             硬盘                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![image-20201104213357079](/Users/derek/Library/Application Support/typora-user-images/image-20201104213357079.png) | ![image-20201104213412062](/Users/derek/Library/Application Support/typora-user-images/image-20201104213412062.png) | ![image-20201104213430990](/Users/derek/Library/Application Support/typora-user-images/image-20201104213430990.png) |
+| ![image-20201104213357079](./images/image-20201104213357079.png) | ![image-20201104213412062](./images/image-20201104213412062.png) | ![image-20201104213430990](./images/image-20201104213430990.png) |
 
 **思考题**
 
@@ -756,7 +756,7 @@ Out[1]: '--------------------------------------------------'
 
 ### 02. 程序的执行原理
 
-![image-20201104214119124](/Users/derek/Library/Application Support/typora-user-images/image-20201104214119124.png)
+![image-20201104214119124](./images/image-20201104214119124.png)
 
 1. 程序 **运行之前，** 程序是 **保存在硬盘** 中的
 2. 当要运行一个程序时
@@ -767,7 +767,7 @@ Out[1]: '--------------------------------------------------'
 
 #### 2.1 python程序的执行原理
 
-![image-20201104214734290](/Users/derek/Library/Application Support/typora-user-images/image-20201104214734290.png)
+![image-20201104214734290](./images/image-20201104214734290.png)
 
 1. 操作系统会首先让 **CPU** 把 **Python解释器** 的程序复制到 **内存中**
 2. **Python解释器** 根据语法规则，**从上到下** 让  **CPU** 翻译 **Python 程序中的代码**
@@ -807,7 +807,7 @@ $ ls -lh /Users/derek/opt/anaconda3/bin/python3.7
 1. QQ **在运行之前** ，是保存在 **硬盘** 中的
 2. **运行之后**，QQ程序就会被加载到 **内存** 中了
 
-![image-20201104220604893](/Users/derek/Library/Application Support/typora-user-images/image-20201104220604893.png)
+![image-20201104220604893](./images/image-20201104220604893.png)
 
 #### 3.2 思考 QQ 程序的登录过程
 
@@ -838,7 +838,7 @@ $ ls -lh /Users/derek/opt/anaconda3/bin/python3.7
 >    * 在QQ自己使用完成之前，这两块儿空间始终都只负责保存 **号码** 和 **密码** 
 > 2. 使用一个 **别名** 标记 QQ**号码** 和 **密码** 在内存中的位置
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201105092742335.png" align="left" alt="image-20201105092742335" style="zoom:80%;" />
+<img src="./images/image-20201105092742335.png" align="left" alt="image-20201105092742335" style="zoom:80%;" />
 
 > * *在程序内部，为 **QQ号码** 和 **QQ密码**  在内存中分配的空间就叫做 **变量***
 > * ***程序就是用来处理数据的***，***而变量就是用来保存数据的***
@@ -1289,7 +1289,7 @@ In [19]: print(keyword.kwlist)
 
 **注意：** `Python`中的 **标识符** 是 **区分大小写的**
 
-![image-20201106162529354](/Users/derek/Library/Application Support/typora-user-images/image-20201106162529354.png)
+![image-20201106162529354](./images/image-20201106162529354.png)
 
 1. 在定义变量时，为了保证代码格式， `=` 的左右应该各保留一个空格
 2. 在 `Python`中，如果 **变量名** 需要由**两个** 或 **多个单词** 组成时，可以按照以下方式命名
@@ -1310,7 +1310,7 @@ https://github.com/zh-google-styleguide/zh-google-styleguide/blob/master/google-
   * 每一个单词的首字母采用大写
   * 例如：`FirstName`、 `LastName` 、`CanelCase`
 
-![image-20201106163708787](/Users/derek/Library/Application Support/typora-user-images/image-20201106163708787.png)
+![image-20201106163708787](./images/image-20201106163708787.png)
 
 **lesson 141 if判断语句1**
 
@@ -1327,13 +1327,13 @@ https://github.com/zh-google-styleguide/zh-google-styleguide/blob/master/google-
 
 生活中的判断几乎无处不在，我们每天都在做各种各样的选择，如果这样，如果那样。。。
 
-![image-20201106164027124](/Users/derek/Library/Application Support/typora-user-images/image-20201106164027124.png)
+![image-20201106164027124](./images/image-20201106164027124.png)
 
 
 
 **程序中的判断**
 
-![image-20201106164051112](/Users/derek/Library/Application Support/typora-user-images/image-20201106164051112.png)
+![image-20201106164051112](./images/image-20201106164051112.png)
 
 ```python
 if 今天发工资:
@@ -1379,7 +1379,7 @@ if 要判断的条件:
 
 **我们可以把整个if语句看成一个完整的代码块**
 
-![image-20201107105155663](/Users/derek/Library/Application Support/typora-user-images/image-20201107105155663.png)
+![image-20201107105155663](./images/image-20201107105155663.png)
 
 #### 2.2 判断语句演练 —— 判断年龄
 
@@ -1649,7 +1649,7 @@ else:
 
 #### 4.2 if的嵌套
 
-![image-20201107221928221](/Users/derek/Library/Application Support/typora-user-images/image-20201107221928221.png)
+![image-20201107221928221](./images/image-20201107221928221.png)
 
 
 
@@ -1677,7 +1677,7 @@ else:
 
 
 
-![image-20201107223039015](/Users/derek/Library/Application Support/typora-user-images/image-20201107223039015.png)
+![image-20201107223039015](./images/image-20201107223039015.png)
 
 **if的嵌套 演练 —— 火车站案件**
 
@@ -1811,7 +1811,7 @@ else:
   * **分支** —— 根据条件判断，决定执行代码的 **分支**
   * **循环** —— 让 **特定代码 重复** 执行
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201108221435947.png" alt="image-20201108221435947" style="zoom:80%;" />
+<img src="./images/image-20201108221435947.png" alt="image-20201108221435947" style="zoom:80%;" />
 
 **lesson 145 循环三大流程介绍**
 
@@ -1871,7 +1871,7 @@ print("循环结束后的 i = %d" % i)
 
 >  ***单步调试，跳出时计数器的值为6***
 
-![image-20201109101804866](/Users/derek/Library/Application Support/typora-user-images/image-20201109101804866.png)
+![image-20201109101804866](./images/image-20201109101804866.png)
 
 
 
@@ -2002,7 +2002,7 @@ print("0～%d 之间的偶数求和结果 = %d" % (i-1, result))
 
 > *`break` 和 `continue` 只针对 **当前所在的循环** 有效*
 
-![image-20201109112852843](/Users/derek/Library/Application Support/typora-user-images/image-20201109112852843.png)
+![image-20201109112852843](./images/image-20201109112852843.png)
 
 
 
@@ -2599,7 +2599,7 @@ def print_line(chr, times):
 
 * **PyCharm（mac版）中显示效果如下**：
 
-![image-20201111104457371](/Users/derek/Library/Application Support/typora-user-images/image-20201111104457371.png)
+![image-20201111104457371](./images/image-20201111104457371.png)
 
 **lesson 190 模块概念介绍**
 
@@ -2734,7 +2734,7 @@ name_list = ["zhangsan", "lisi", "wangwu"]
 
 lesson 196 存储数据方式以及取值
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201112092716320.png" alt="image-20201112092716320" style="zoom:68%;" />
+<img src="./images/image-20201112092716320.png" alt="image-20201112092716320" style="zoom:68%;" />
 
 **lesson 197 确认列表常用操作方法**
 
@@ -2924,7 +2924,7 @@ for name in name_list:
 
 **lesson 207 列表的应用场景**
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201112154929911.png" alt="image-20201112154929911" style="zoom:67%;" />
+<img src="./images/image-20201112154929911.png" alt="image-20201112154929911" style="zoom:67%;" />
 
 #### 1.4 应用场景
 
@@ -3086,13 +3086,13 @@ xiaoming = {"name": "小明"，
 }
 ```
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201113145103277.png" alt="image-20201113145103277" style="zoom: 80%;" />![image-20201113145153325](/Users/derek/Library/Application Support/typora-user-images/image-20201113145153325.png)
+<img src="./images/image-20201113145103277.png" alt="image-20201113145103277" style="zoom: 80%;" />![image-20201113145153325](./images/image-20201113145153325.png)
 
 
 
 
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201113145227798.png" alt="image-20201113145227798" style="zoom:80%;" />
+<img src="./images/image-20201113145227798.png" alt="image-20201113145227798" style="zoom:80%;" />
 
 **lesson 216 字典定义以及应用场景**
 
@@ -3220,7 +3220,7 @@ for c in string：
 	print(c)
 ```
 
-![image-20201114183439595](/Users/derek/Library/Application Support/typora-user-images/image-20201114183439595.png)
+![image-20201114183439595](./images/image-20201114183439595.png)
 
 **lesson 222 长度、计数和位置方法**
 
@@ -3416,7 +3416,7 @@ print(result)
   * **切片** 和 **元组** 都是 **有序** 的集合，都能够 **通过索引值** 获取到对应的数据
   * **字典** 是一个 **无序** 的集合，是使用 **键值对** 保存数据
 
-![image-20201115165941345](/Users/derek/Library/Application Support/typora-user-images/image-20201115165941345.png)
+![image-20201115165941345](./images/image-20201115165941345.png)
 
 ```
 字符串[开始索引：结束索引：步长]
@@ -3770,7 +3770,7 @@ def search_card():
 * 使用 **字典** 记录 **每一张名片** 的详细信息
 * 使用 **列表** 统一记录所有的 **名片字典**
 
-![image-20201124103618918](/Users/derek/Library/Application Support/typora-user-images/image-20201124103618918.png)
+![image-20201124103618918](./images/image-20201124103618918.png)
 
 
 
@@ -4028,15 +4028,15 @@ $ ./card_main.py
 
 * 定义一个整数变量 `a` ,并且赋值为 `1`
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201116212152246.png" style="zoom:80%;" />
+<img src="./images/image-20201116212152246.png" style="zoom:80%;" />
 
 * 将变量 `a` 赋值为 `2`
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201116212304466.png" alt="image-20201116212304466" style="zoom:80%;" />
+<img src="./images/image-20201116212304466.png" alt="image-20201116212304466" style="zoom:80%;" />
 
 * 定义一个整数变量 `b` ，并且将变量 `a` 的值赋值给 `b`
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201116212439745.png" alt="image-20201116212439745" style="zoom:80%;" />
+<img src="./images/image-20201116212439745.png" alt="image-20201116212439745" style="zoom:80%;" />
 
 > *变量 `b` 是第2个贴在数字 `2` 上的标签*
 
@@ -4345,7 +4345,7 @@ c = 30
 
 **代码结构示意图如下**
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201118110109972.png" alt="image-20201118110109972" style="zoom:50%;" />
+<img src="./images/image-20201118110109972.png" alt="image-20201118110109972" style="zoom:50%;" />
 
 
 
@@ -4380,7 +4380,7 @@ c = 30
 3. 有参数，无返回值
 4. 有参数，有返回值
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201119094528783.png" alt="image-20201119094528783" style="zoom:60%;" />
+<img src="./images/image-20201119094528783.png" alt="image-20201119094528783" style="zoom:60%;" />
 
 > 定义函数时，**是否接收参数，或者是否返回结果**，是根据 **实际的功能需求** 来决定的
 
@@ -4748,7 +4748,7 @@ sum_number(3)
 
 **lesson 293 递归演练代码执行流程图**
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201120105822157.png" alt="image-20201120105822157" style="zoom:60%;" />
+<img src="./images/image-20201120105822157.png" alt="image-20201120105822157" style="zoom:60%;" />
 
 
 
@@ -4784,7 +4784,7 @@ print("result: %d" % result)
 
 
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201120111852794.png" alt="image-20201120111852794" style="zoom:80%;" />
+<img src="./images/image-20201120111852794.png" alt="image-20201120111852794" style="zoom:80%;" />
 
 
 

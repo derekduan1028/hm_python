@@ -11,8 +11,10 @@
 """
 
 # 打开文件
-md_file = open("/Users/derek/Desktop/笔记/hm-笔记/hm-python.md")
-md_file_git = open("/Users/derek/PycharmProjects/hm_python/hm-python.md", 'w')
+md_file = open("/Users/derek/Desktop/笔记/hm-笔记"
+               "/hm-Part3-面向对象.md")
+md_file_git = open("/Users/derek/PycharmProjects/hm_python"
+                   "/hm-Part3-面向对象.md", 'w')
 # 复制文件
 while True:
     text = md_file.readline()

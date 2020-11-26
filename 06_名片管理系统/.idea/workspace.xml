@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26797eb3-101c-49e4-8bbf-645860f4d6a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/derek.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_02_局部变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_03_全局变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_04_函数不能直接修改全局变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_05_修改全局变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_06_全局变量的位置.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_07_全局变量的命名.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_08_多个返回值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_10_不可变和可变参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_11_函数内部通过方法修改可变参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_12_面试题加等于.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_13_函数的缺省参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_14_函数的缺省参数定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_15_缺省参数注意点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_16_多值参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_17_多值参数求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_18_元组和字典的拆包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_19_递归函数的特点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_20_递归求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../temp/test_for循环与列表推导对比.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../temp/test_打印正方形.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../temp/test_比较大小.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part2/07_语法进阶/hm_01_引用.py" beforeDir="false" afterPath="$PROJECT_DIR$/../part2/07_语法进阶/hm_01_引用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp/test_turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../temp/test_turtle.py" afterDir="false" />
-    </list>
+    <list default="true" id="26797eb3-101c-49e4-8bbf-645860f4d6a6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-1739" />
-    <option name="y" value="54" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1632" />
+    <option name="y" value="200" />
     <option name="width" value="1192" />
     <option name="height" value="720" />
   </component>
@@ -179,7 +149,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1739" y="54" width="1192" height="720" extended-state="1" />
+    <frame x="-1632" y="200" width="1192" height="720" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49512196" visible="true" weight="0.35263157" />
       <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.32084692" />
@@ -194,7 +164,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49674267" weight="0.32786885" />
-      <window_info active="true" anchor="bottom" x="158" y="338" width="900" height="258" id="Run" order="10" sideWeight="0.49918568" visible="true" weight="0.43781096" />
+      <window_info anchor="bottom" x="158" y="338" width="900" height="258" id="Run" order="10" sideWeight="0.49918568" weight="0.43781096" />
       <window_info anchor="right" id="R Packages" order="0" />
       <window_info anchor="right" id="R Graphics" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />

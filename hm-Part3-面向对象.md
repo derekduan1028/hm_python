@@ -43,7 +43,7 @@
 
 在使用面向对象开发前，应该首先分析需求，确定一下，程序中需要包含哪些类
 
-![image-20201004213021642](/Users/derek/Library/Application Support/typora-user-images/image-20201004213021642.png)
+![image-20201004213021642](./images/image-20201004213021642.png)
 
 在程序开发中，要审计一个类，通常需要满足一下三个要素：
 
@@ -79,7 +79,7 @@
 
 * **小美** 今年 **17岁**，**身高1.65**，小美不 **跑** 步，小美喜欢 **吃** 东西
 
-![image-20201005105336997](/Users/derek/Library/Application Support/typora-user-images/image-20201005105336997.png)
+![image-20201005105336997](./images/image-20201005105336997.png)
 
 #### **练习2**
 
@@ -91,7 +91,7 @@
 
 * 看见家人 **摇尾巴**
 
-  ![image-20201005105747180](/Users/derek/Library/Application Support/typora-user-images/image-20201005105747180.png)
+  ![image-20201005105747180](./images/image-20201005105747180.png)
 
 **Lesson 299 内置的dir函数**
 
@@ -165,7 +165,7 @@
   2.定义两个方法 `eat` 和 `drink`
   3.按照需求 - - 不需要定义属性
 
-  ![image-20201007093932315](/Users/derek/Library/Application Support/typora-user-images/image-20201007093932315.png)
+  ![image-20201007093932315](./images/image-20201007093932315.png)
 
 ```python
 class Cat:
@@ -457,7 +457,7 @@ print("-" * 50)
 2. 小明每次 **跑步** 会减肥 `0.5`公斤
 3. 小明每次 **吃东西** 体重会增加`1` 公斤
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201010113605969.png" alt="image-20201010113605969" style="zoom:80%;" />
+<img src="./images/image-20201010113605969.png" alt="image-20201010113605969" style="zoom:80%;" />
 
 ​	提示：在**对象的方法内部**，是可以 **直接访问对象的属性**的
 
@@ -548,7 +548,7 @@ print(xiaoming)
 
 4. 打印房子时，要求输出：**户型、总面积、剩余面积、家具名称列表**
 
-   ![image-20201012204609141](/Users/derek/Library/Application Support/typora-user-images/image-20201012204609141.png)
+   ![image-20201012204609141](./images/image-20201012204609141.png)
 
 **剩余面积**
 
@@ -684,7 +684,7 @@ def add_item(self, vItem):
 
 4. **枪** 装填 子弹 - - 增加子弹数量
 
-![image-20201016093914160](/Users/derek/Library/Application Support/typora-user-images/image-20201016093914160.png)
+![image-20201016093914160](./images/image-20201016093914160.png)
 
 
 
@@ -866,7 +866,7 @@ print(xusanduo.gun)
 
 * 在 **定义属性或方法时，** 在 **属性名或者方法名前** 增加 **两个下划线**，定义的就是 **私有** 属性或方法
 
-![image-20201017093344007](/Users/derek/Library/Application Support/typora-user-images/image-20201017093344007.png)
+![image-20201017093344007](./images/image-20201017093344007.png)
 
 ```python
 class Women:
@@ -931,7 +931,7 @@ xiaofang._Women__secret()
 
 **继承的概念：** **子类** 拥有 **父类** 的所有 **方法** 和 **属性**
 
-![image-20201017131835773](/Users/derek/Library/Application Support/typora-user-images/image-20201017131835773.png)
+![image-20201017131835773](./images/image-20201017131835773.png)
 
 
 
@@ -986,7 +986,7 @@ class 类名(父类名):
 
   
 
-![image-20201017172307139](/Users/derek/Library/Application Support/typora-user-images/image-20201017172307139.png)
+![image-20201017172307139](./images/image-20201017172307139.png)
 
 
 
@@ -1054,7 +1054,7 @@ class 类名(父类名):
 
 **示例**
 
-![image-20201022153547631](/Users/derek/Library/Application Support/typora-user-images/image-20201022153547631.png)
+![image-20201022153547631](./images/image-20201022153547631.png)
 
 * `B`的对象不能直接访问 `__num2` 属性
 * `B`的对象不能在 `demo` 方法内部访问`__num2` 属性
@@ -1073,7 +1073,7 @@ class 类名(父类名):
 
 * 例如：**孩子** 会继承自己 **父亲** 和 **母亲** 的 **特性**
 
-<img src="/Users/derek/Library/Application Support/typora-user-images/image-20201022215832730.png" alt="image-20201022215832730" style="zoom:50%;" />
+<img src="./images/image-20201022215832730.png" alt="image-20201022215832730" style="zoom:50%;" />
 
 
 
@@ -1096,7 +1096,7 @@ class 子类名(父类名1,父类名2):
 
 jfkdjfdk
 
-![image-20201024180542942](/Users/derek/Library/Application Support/typora-user-images/image-20201024180542942.png)
+![image-20201024180542942](./images/image-20201024180542942.png)
 
 
 
@@ -1227,7 +1227,7 @@ Out[3]:
 
    * 是调用方法的技巧，**不会影响到类的内部设计**
 
-![image-20201024221950593](/Users/derek/Library/Application Support/typora-user-images/image-20201024221950593.png)
+![image-20201024221950593](./images/image-20201024221950593.png)
 
 
 
@@ -1247,7 +1247,7 @@ Out[3]:
 
    * 在方法内部，直接让 **狗对象** 调用`game`方法
 
-![image-20201024222632114](/Users/derek/Library/Application Support/typora-user-images/image-20201024222632114.png)
+![image-20201024222632114](./images/image-20201024222632114.png)
 
 **案例小结**
 
@@ -1271,7 +1271,7 @@ Out[3]:
 
 3. 对象创建后，**内存** 中就有了一个对象的**实实在在** 的存在 ---- **实例**
 
-![image-20201024224358242](/Users/derek/Library/Application Support/typora-user-images/image-20201024224358242.png)
+![image-20201024224358242](./images/image-20201024224358242.png)
 
 因此，通常也会把：
 
@@ -1309,7 +1309,7 @@ Out[3]:
   2. 类方法**
 * 通过 **类名. ** 的方式可以 **访问类的属性** 或者 **调用类的方法**
 
-![image-20201025132323369](/Users/derek/Library/Application Support/typora-user-images/image-20201025132323369.png)
+![image-20201025132323369](./images/image-20201025132323369.png)
 
 
 
@@ -1329,7 +1329,7 @@ Out[3]:
 * 每件工具都有自己的`name`
 * **需求** ---- 知道使用这个类，创建了多少个工具对象？
 
-![image-20201025175906266](/Users/derek/Library/Application Support/typora-user-images/image-20201025175906266.png)
+![image-20201025175906266](./images/image-20201025175906266.png)
 
 ```python
 class Tool(object):
@@ -1356,7 +1356,7 @@ print(Tool.count)
 
 * 在`Python`中 属性的获取 存在一个 **向上检查机制**
 
-![image-20201025212423407](/Users/derek/Library/Application Support/typora-user-images/image-20201025212423407.png)
+![image-20201025212423407](./images/image-20201025212423407.png)
 
 * 因此，要访问类属性有两种方式：
   1. **类名.类属性**
@@ -1410,7 +1410,7 @@ def 类方法名(cls):
 
 
 
-![image-20201026100625592](/Users/derek/Library/Application Support/typora-user-images/image-20201026100625592.png)
+![image-20201026100625592](./images/image-20201026100625592.png)
 
 
 
@@ -1484,7 +1484,7 @@ Dog.run()
    * 2）查看历史最高分
    * 3）创建游戏对象，开始游戏
 
-   ![image-20201027094735007](/Users/derek/Library/Application Support/typora-user-images/image-20201027094735007.png)
+   ![image-20201027094735007](./images/image-20201027094735007.png)
 
    
 
@@ -1574,7 +1574,7 @@ game1.start_game()
 
 * 注意：`__new__` 是一个静态方法，在调用时需要 **主动传递`cls`参数**
 
-![image-20201027104736662](/Users/derek/Library/Application Support/typora-user-images/image-20201027104736662.png)
+![image-20201027104736662](./images/image-20201027104736662.png)
 
 
 
@@ -1613,7 +1613,7 @@ print(player)
   3. 如果 **类属性** `is None`，调用父类方法分配空间，并在类属性中记录结果
   4. 返回 **类属性** 中记录的 **对象引用**
 
-![image-20201027113146720](/Users/derek/Library/Application Support/typora-user-images/image-20201027113146720.png)
+![image-20201027113146720](./images/image-20201027113146720.png)
 
 
 
@@ -1725,7 +1725,7 @@ MusicPlayer.show_init_times()
 * 程序在运行时，如果`Python解释器` **遇到** 一个错误，**会停止程序的执行，并且提示一些错误信息**。                  这就是 **异常**
 * **程序停止执行并且提示错误信息** 这个动作，我们通常称之为：**抛出(raise)异常**
 
-![image-20201027143156680](/Users/derek/Library/Application Support/typora-user-images/image-20201027143156680.png)
+![image-20201027143156680](./images/image-20201027143156680.png)
 
 > *程序开发时，很难将 **所有的特殊情况** 都处理的面面俱到，通过 **异常捕获** 可以针对突发事件做集中的处理，从而保证程序的 **稳定性和健壮性***
 
@@ -1939,7 +1939,7 @@ finally:
 
 * 提示用户 **输入密码，** 如果 **长度少于8，** 抛出 **异常**
 
-![image-20201028151549662](/Users/derek/Library/Application Support/typora-user-images/image-20201028151549662.png)
+![image-20201028151549662](./images/image-20201028151549662.png)
 
 **注意**
 
@@ -2245,7 +2245,7 @@ from . import receive_message
 * 计算机中的 **文件** 就是存储在某种 **长期存储设备** 上的一段 **数据**
 * 长期存储设备包括：硬盘、U盘、移动硬盘、光盘。。。
 
-**![image-20201030103520448](/Users/derek/Library/Application Support/typora-user-images/image-20201030103520448.png)**
+**![image-20201030103520448](./images/image-20201030103520448.png)**
 
 
 
@@ -2397,7 +2397,7 @@ file.close()
 
 用代码的方式，来实现文件复制过程
 
-![image-20201102105805492](/Users/derek/Library/Application Support/typora-user-images/image-20201102105805492.png)
+![image-20201102105805492](./images/image-20201102105805492.png)
 
 **小文件复制**
 
@@ -2486,7 +2486,7 @@ target_file.close()
 * 一个 `ASCII`在内存中占用 **1个字节** 的空间
   * `8`个 `0/1`的排列组合方式一共有`256`种，也就是`2**8`
 
-![image-20201102151039723](/Users/derek/Library/Application Support/typora-user-images/image-20201102151039723.png)
+![image-20201102151039723](./images/image-20201102151039723.png)
 
 
 
